@@ -2,7 +2,7 @@ import requests
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, CallbackQueryHandler, ContextTypes
 
-BOT_TOKEN = "8790544217:AAHaFm8nPJEszqPW7k6sW19ei9nejy21uFE"
+BOT_TOKEN = "8761374023:AAENmLmjXyqh0P2gir-59g3lWtJmNthVKXc"
 API = "https://teraboxyx.netlify.app/.netlify/functions/terabox?url="
 
 # START
