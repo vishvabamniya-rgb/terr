@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-requests
-urllib3
-playwright
